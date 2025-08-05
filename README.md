@@ -3,7 +3,7 @@
 🎓 **Computer Science Student**  
 💻 **Frontend Developer**  
 🎮 Aspiring Game Developer  
-🎙️ Coordinator at **Galgotia’s Management Team**  
+🎙️ Coordinator at **Galgotias Management Team**  
 🌍 Based in India  
 
 ---
@@ -28,7 +28,8 @@
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/A-hub-D)
-
+- [LinkedIn](https://www.linkedin.com/in/adya-dwivedi-a61bba319)
+- [Instagram](https://www.instagram.com/addyyaa._)
 
 ---
 
